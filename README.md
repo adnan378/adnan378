@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnan Ahmad</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 - 📫 How to reach me **adnan.378khan@gmail.com**
 
